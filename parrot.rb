@@ -2,4 +2,4 @@
 # returns the phrase
 def parrot(phase = "Squawk!")
   puts phrase
-endS
+end
